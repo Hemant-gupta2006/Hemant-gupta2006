@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hemant 👋
 
-<!--
-**Hemant-gupta2006/Hemant-gupta2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer focused on building high-performance web apps
 
-Here are some ideas to get you started:
+## 🔥 Featured Project
+🚚 Courier Management System  
+🔗 https://hemtej-courier-management.vercel.app/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel-like data entry system  
+- Instant navigation (no reload UX)  
+- Optimized for performance & real-world usage  
+
+## ⚡ Tech Stack
+Next.js • React • Prisma • Tailwind • Supabase
+
+## 📫 Contact
+- Linkin : https://www.linkedin.com/in/hemant-gupta-3a05a5330/
